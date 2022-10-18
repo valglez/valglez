@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋!</h1>
 
 
-<p align="left">I'm a SysAdmin and DevOps enthusiast.</p><br>
+<p align="left">SysAdmin and DevOps enthusiast.</p><br>
 
 <h3 align="left">Languages, OS and Tools:</h3>
 
@@ -10,3 +10,4 @@
 <h3 align="left">Holopin Badges:</h3>
 
 [![@valglez's Holopin board](https://holopin.me/valglez)](https://holopin.io/@valglez)
+
