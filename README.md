@@ -1,7 +1,7 @@
 <br>***About me***<br>
 
 👋 Hi there! I'm Valglez, from Spain.  
-🧑‍💼 I'm SysAdmin and an Open-Source enthusiast.  
+🧑 I'm SysAdmin and an Open-Source enthusiast.  
 🌱 I'm currently interested in programming and learning some tools.
 
 <br>***Connect with me:***<br>
