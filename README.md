@@ -2,9 +2,6 @@
 🧑 I'm SysAdmin and an Open-Source enthusiast.  
 🌱 I'm currently interested in programming and learning some tools.
 
-<br>**_Connect with me:_**<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valvaglez) &emsp;
 
 <br>**_Languages, Tools and Skills:_**<br>
 
